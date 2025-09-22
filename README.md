@@ -74,12 +74,7 @@ In a global market, tracking sales performance across dozens of countries, multi
 - Launch Targeted Campaigns: Use yearly trend data to create vehicle-specific promotions during peak buying seasons.  
 - Optimize Inventory: Align stock levels with the most frequently shipped vehicle types and locations.
 
-## 📂 Project Repository Structure
 
-sales_dashboard_powerbi/
-├── data/
-│ └── sales_data.csv ← Raw data source file
-└── Sales Dashboard by Country.pbix ← Main Power BI report file
 
 
 ## 🚀 How to Use the Dashboard
